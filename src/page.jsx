@@ -117,7 +117,7 @@ return (
                         <Phone className="w-8 h-8 text-white" />
                     </div>
                     <h1 className="text-3xl font-bold text-white mb-2">Schedule Your Call</h1>
-                    <p className="text-purple-100">Book a personalized consultation with us</p>
+                    <p className="text-purple-100">Discuss Your Project With Us</p>
                 </div>
 
                 {/* Form */}
